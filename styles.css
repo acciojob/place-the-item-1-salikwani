@@ -1,9 +1,9 @@
-.container {
+.holder {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
 }
-.holder {
+.item {
 	padding: 20px;
 	margin: 2px;
 	background-color: green;
